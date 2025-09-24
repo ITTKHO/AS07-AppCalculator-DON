@@ -59,7 +59,7 @@
 > **สำคัญ**: อย่าใส่ `<img>` ไว้ใน code block (บล็อกพื้นเทา) ไม่งั้นรูปจะไม่แสดง
 
 <p>
-  <img src="screenshots/home.png" width="260">
+  <img src="home.png" width="260">
 
 </p>
 
